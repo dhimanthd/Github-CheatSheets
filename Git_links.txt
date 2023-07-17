@@ -2,3 +2,4 @@ git status: https://git-scm.com/docs/git-status
 git init: https://git-scm.com/docs/git-init
 git add: https://git-scm.com/docs/git-add
 git commit: https://git-scm.com/docs/git-commit
+git log: https://git-scm.com/docs/git-log
