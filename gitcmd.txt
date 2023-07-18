@@ -7,3 +7,4 @@ List of Git Command:
 4. git commit
 5. git log
 6. git log --oneline
+#A lot of command regarding to branch and switch is added in branch one and two
