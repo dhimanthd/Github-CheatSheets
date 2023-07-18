@@ -10,4 +10,5 @@ List of Git Command:
 7. git branch (to view or list)
 8. git branch <name>
 9. git switch <branch name>
+10. git checkout <branch name>
 
