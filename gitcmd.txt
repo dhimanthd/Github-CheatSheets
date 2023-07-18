@@ -7,3 +7,7 @@ List of Git Command:
 4. git commit
 5. git log
 6. git log --oneline
+7. git branch (to view or list)
+8. git branch <name>
+9. git switch <branch name>
+
