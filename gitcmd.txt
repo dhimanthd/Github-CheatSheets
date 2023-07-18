@@ -5,3 +5,4 @@ List of Git Command:
 3. git add
 4. git commit
 5. git log
+6. git reference
