@@ -7,4 +7,14 @@ List of Git Command:
 4. git commit
 5. git log
 6. git log --oneline
-#A lot of command regarding to branch and switch is added in branch one and two
+7. git branch (to view or list)
+8. git branch <name>
+9. git switch <branch name>
+10. git checkout <branch name>
+11. git branch -d <branch name> //to delete a branch which is merged
+12. git branch -D <branch name> //to delete a branch which isnt merged (forced Delete)
+    Note: Be outside the branch to delete it 
+13. git branch -m <new branch name>
+    Note: Be in the branch which you want to rename
+    
+
