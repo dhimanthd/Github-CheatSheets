@@ -11,5 +11,11 @@ List of Git Command:
 8. git branch <name>
 9. git switch <branch name>
 10. git checkout <branch name>
-11. git switch -c two
+11. git switch -c <new branch name>
+12. git branch -d <branch name> //to delete a branch which is merged
+13. git branch -D <branch name> //to delete a branch which isnt merged (forced Delete)
+    Note: Be outside the branch to delete it 
+14. git branch -m <new branch name>
+    Note: Be in the branch which you want to rename
+15. git merge <branch name>
 
