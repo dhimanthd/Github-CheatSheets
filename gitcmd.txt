@@ -19,5 +19,7 @@ List of Git Command:
     Note: Be in the branch which you want to rename
 15. git merge <branch name>
 16. git checkout -b <branch name> //create branch and switch(same as command 11)
-7. git diff
-
+17. git diff (shows all the unstaged changes)
+18. git diff HEAD (shows all the staged and unstaged changes since last commit)
+19. git diff --staged (shows all the staged changes)
+20. git diff --cached (shows all the staged changes)
