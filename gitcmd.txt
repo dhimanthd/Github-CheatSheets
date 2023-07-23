@@ -23,3 +23,6 @@ List of Git Command:
 18. git diff HEAD (shows all the staged and unstaged changes since last commit)
 19. git diff --staged (shows all the staged changes)
 20. git diff --cached (shows all the staged changes)
+21. git diff <branch one> <branch two>
+22. git stash
+23. git stash pop
