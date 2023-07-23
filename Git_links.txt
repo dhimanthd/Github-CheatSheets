@@ -6,6 +6,7 @@ git init: https://git-scm.com/docs/git-init
 git add: https://git-scm.com/docs/git-add
 git commit: https://git-scm.com/docs/git-commit
 git log: https://git-scm.com/docs/git-log
+git diff: https://git-scm.com/docs/git-diff
 git reference: https://git-scm.com/docs
 git config: https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config
 git switch: https://git-scm.com/docs/git-switch
@@ -13,6 +14,5 @@ git branch: https://git-scm.com/docs/git-branch
 git checkout: https://git-scm.com/docs/git-checkout
 git merge: https://git-scm.com/docs/git-merge
 
-Exercise:
-1. Committing: https://plum-poppy-0ea.notion.site/Committing-Basics-Exercise-3dc1ef1873ce45e68cedd2265710d7d8
+
 

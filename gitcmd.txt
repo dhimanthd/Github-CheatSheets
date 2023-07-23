@@ -19,4 +19,5 @@ List of Git Command:
     Note: Be in the branch which you want to rename
 15. git merge <branch name>
 16. git checkout -b <branch name> //create branch and switch(same as command 11)
+7. git diff
 
