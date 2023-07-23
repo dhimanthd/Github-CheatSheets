@@ -26,3 +26,4 @@ List of Git Command:
 21. git diff <branch one> <branch two>
 22. git stash
 23. git stash pop
+24. git stash apply
