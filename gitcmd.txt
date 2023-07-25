@@ -27,3 +27,6 @@ List of Git Command:
 22. git stash
 23. git stash pop
 24. git stash apply
+25. git stash list (for multiple stashes)
+26. git stash apply stash@{2} (to specify the stash number)
+27. git stash drop stash@{2}
