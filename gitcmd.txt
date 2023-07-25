@@ -30,3 +30,19 @@ List of Git Command:
 25. git stash list (for multiple stashes)
 26. git stash apply stash@{2} (to specify the stash number)
 27. git stash drop stash@{2}
+28. git checkout <COMMIT NUMBER> //detach head
+29. git switch master
+30. git checkout HEAD~1
+31. git switch - //goes back to previous HEAD position
+32. git checkout HEAD <filename> //to remove the contents before commiting
+33. git checkout -- <filename>
+34. git restore <filename>
+35. git restore --source HEAD~1 <filename>
+36. git restore --staged <filename>
+37. git reset <commit-hash> //soft reset where  because all that we did was perform a basic or a plane reset and that removed the commits.
+        But the changes are still in our working directory.
+        So I can get rid of those changes and I can undo stuff in my local files.
+        But all that we did right now was tell Git to get rid of some commits.
+
+
+

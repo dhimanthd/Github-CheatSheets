@@ -14,6 +14,7 @@ git branch: https://git-scm.com/docs/git-branch
 git checkout: https://git-scm.com/docs/git-checkout
 git merge: https://git-scm.com/docs/git-merge
 git stash: https://git-scm.com/docs/git-stash
+git reset: https://git-scm.com/docs/git-reset
 
 
 
