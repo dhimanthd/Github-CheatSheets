@@ -1,5 +1,6 @@
 List of Git Command:
 
-1. git status
-2. git init
-3. git add
+This only contains only re-branched files 
+
+git checkout <head commit> to which ever position you want  to GO
+git switch -c branch
