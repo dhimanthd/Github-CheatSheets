@@ -43,6 +43,7 @@ List of Git Command:
         But the changes are still in our working directory.
         So I can get rid of those changes and I can undo stuff in my local files.
         But all that we did right now was tell Git to get rid of some commits.
+38. git remote -v
 
 
 
