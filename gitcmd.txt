@@ -50,6 +50,8 @@ List of Git Command:
         got push origin one_b:master
 42. git push -u origin master //sets up upstream
     git push // in future we can just use this short-checkout
+43. git branch -M main //rename the currect branch to main (be careful you might loose the contect of the actual main)
+
 
 
 
