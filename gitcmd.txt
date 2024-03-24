@@ -46,6 +46,11 @@ List of Git Command:
 38. git remote -v // check if the repo is connected to remote, Usually when you clone a repo it will automatically be connected to the repo locally
 39. git remote add origin <Url>(github repo) //Connects local repo to the github
 40. git push <remote>(origin) <branch>(master)
+41. git push origin "localBranch":"remoteBranch"
+        got push origin one_b:master
+42. git push -u origin master //sets up upstream
+    git push // in future we can just use this short-checkout
+
 
 
 
