@@ -1,0 +1,2 @@
+Load Balancing Among Nodes [3]
+Load balancing aims to uniformly distribute the computational tasks across all nodes in the network, preventing any single node from becoming a bottleneck due to excessive load.
