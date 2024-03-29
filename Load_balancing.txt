@@ -1,2 +1,3 @@
 Load Balancing Among Nodes [3]
 Load balancing aims to uniformly distribute the computational tasks across all nodes in the network, preventing any single node from becoming a bottleneck due to excessive load.
+Feng, Chuan, Pengchao Han, Xu Zhang, Bowen Yang, Yejun Liu, and Lei Guo. "Computation offloading in mobile edge computing networks: A survey." Journal of Network and Computer Applications 202 (2022): 103366.
